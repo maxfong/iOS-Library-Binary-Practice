@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		5665B22C3193FFBBCD326F3A /* libPods-Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B964E2B05C045BFC035EACC4 /* libPods-Example.a */; };
 		A94EC37F1EB1D9CB00F0BC8C /* iOSBinaryPractice.h in Headers */ = {isa = PBXBuildFile; fileRef = A94EC37D1EB1D9CB00F0BC8C /* iOSBinaryPractice.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A94EC3A21EB1DC2000F0BC8C /* AClass.h in Headers */ = {isa = PBXBuildFile; fileRef = A94EC3A01EB1DC2000F0BC8C /* AClass.h */; };
+		A94EC3A21EB1DC2000F0BC8C /* AClass.h in Headers */ = {isa = PBXBuildFile; fileRef = A94EC3A01EB1DC2000F0BC8C /* AClass.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A94EC3A31EB1DC2000F0BC8C /* AClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A94EC3A11EB1DC2000F0BC8C /* AClass.m */; };
 		A94EC3AC1EB1DF7000F0BC8C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A94EC3AB1EB1DF7000F0BC8C /* main.m */; };
 		A94EC3AF1EB1DF7000F0BC8C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A94EC3AE1EB1DF7000F0BC8C /* AppDelegate.m */; };
@@ -580,6 +580,7 @@
 				A94EC3BD1EB1DF7000F0BC8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
