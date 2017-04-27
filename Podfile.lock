@@ -1,4 +1,6 @@
 PODS:
+  - iOSBinaryPractice (1.0.0):
+    - MFSIdentifier
   - MFSCache (2.0.0):
     - MFSJSONEntity
   - MFSIdentifier (1.0.0):
@@ -6,13 +8,15 @@ PODS:
   - MFSJSONEntity (1.0.6)
 
 DEPENDENCIES:
+  - iOSBinaryPractice
   - MFSIdentifier
 
 SPEC CHECKSUMS:
+  iOSBinaryPractice: 17d7ae0e2b674e1fa7b9b155f7a43509fc690489
   MFSCache: '0912a5ef83b35d9e318f22e20e383baff21637f4'
   MFSIdentifier: ec138938d48c2c35031aa3c58a4568af6d7c6b80
   MFSJSONEntity: 87c9404c87cb499de26b061f3c985eb7808bef73
 
-PODFILE CHECKSUM: 00706053c08d7ca178f0b480fae3100ae93d239f
+PODFILE CHECKSUM: 88e7ebea22acdfa74a4e0aeb61de59e0cd564d3d
 
 COCOAPODS: 1.2.1
