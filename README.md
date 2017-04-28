@@ -1,5 +1,7 @@
 # iOS-Library-Binary-Practice 
 
+仓库存放源码，`pod update`后自动编译成framework引入工程  
+
 ## 效果图  
 
 1. 执行`pod update`后没有做其他操作  
