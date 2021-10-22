@@ -12,4 +12,4 @@
 
 ## 参考  
 
-[谈谈CocoaPods组件二进制化方案](https://imfong.com/post/Talk-iOS-Library-Binary-Practice)  
+[谈谈CocoaPods组件二进制化方案](https://maxfong.github.io/post/Talk-iOS-Library-Binary-Practice)  
